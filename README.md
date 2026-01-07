@@ -3,6 +3,13 @@
 ## 📌 Project Overview
 This project focuses on a comprehensive Data Cleaning process for a global layoffs dataset using SQL Server. The primary goal is to transform messy, raw data into a structured, consistent, and clean format, making it ready for Exploratory Data Analysis (EDA) and visualization.
 
+## 🎓 Acknowledgments
+This project was inspired by and follows the methodology developed by **Alex Freberg (Alex The Analyst)**. 
+- **Guided by:** [Alex The Analyst's YouTube Channel](https://www.youtube.com/@AlexTheAnalyst)
+- **Reference Repository:** [AlexTheAnalyst / MySQL-YouTube-Series](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series)
+
+*Note: While the original tutorial uses MySQL, I have adapted the scripts for **Microsoft SQL Server**.*
+
 ## 🛠 Tools & Technologies
 - **Language:** SQL
 - **Tool:** Microsoft SQL Server Management Studio (SSMS)
